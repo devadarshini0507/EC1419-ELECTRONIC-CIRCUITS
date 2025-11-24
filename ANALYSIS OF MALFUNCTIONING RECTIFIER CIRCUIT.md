@@ -4,9 +4,9 @@
 <img width="811" height="708" alt="image" src="https://github.com/user-attachments/assets/e0caa2dd-cc57-4642-987f-53e4f8f78903" />
 
 
-## ATTACH THE CORRECT CIRCUIT
 
 ## GRAPHS
 
+<img width="1006" height="1280" alt="image" src="https://github.com/user-attachments/assets/86744491-6d6e-4758-bca8-1129d42d51cb" />
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
